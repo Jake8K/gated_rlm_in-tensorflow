@@ -8,12 +8,12 @@ If anyone would like to collaborate on this, I would appreciate some help. I hav
 ```$ python tokenize_file.py <File Names>```
 
 ## To Train Model:
-```(tensorflow)$ python train.py```
-     * assumes default settings and file hierarchy, bellow, options yet to be set
+```(tensorflow)$ python train.py```  
+- assumes default settings and file hierarchy, bellow, options yet to be set
 
-## To Sample from Model:
-```(tensorflow)$ python sample.py```
-     * NOT YET IMPLEMENTED
+## To Sample from Model:  
+```(tensorflow)$ python sample.py```  
+- *NOT YET IMPLEMENTED*
      
 ### SourceCode
 - [base.py](docs/SourceCode/base.py)   
